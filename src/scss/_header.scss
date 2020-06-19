@@ -51,7 +51,7 @@
             background: $white;
             color: $pink;
             border: 2px solid $pink;
-            padding: 10px 25px;
+            padding: 7px 25px;
             font-weight: bold;
             text-decoration: none;
             &:hover{
@@ -85,6 +85,7 @@
         display: flex;
         flex-direction: row;
         justify-content: space-between;
+        align-items: center;
     }
     .site-header__menu{
         display: flex;
